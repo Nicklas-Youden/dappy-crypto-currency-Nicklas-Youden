@@ -1,0 +1,28 @@
+.Header{
+  display: flex;
+  align-items: center;
+  padding-top: 1.5em;
+  
+  &__image{
+    height: 2em;
+    width: auto;
+    padding-left: 2.5em;
+  }
+}
+.HeaderNav{
+  &__navList {
+    list-style: none;
+    display: flex;
+    gap: 2em;
+    margin: 0;
+
+    & li a{
+      color: #1F2431;
+      text-decoration: none;
+    }
+  }
+}
+.socialIcons{
+  margin-left: auto;
+  margin-right: 1.5em;
+}

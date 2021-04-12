@@ -1,0 +1,42 @@
+.hero{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  // grid-template-rows: auto;
+  margin-inline: 2.5em;
+
+  &__walletImage{
+    padding: 2em;
+  }
+
+  &__saleText{
+    // display: flex;
+    // flex-direction: column;
+    margin-block: auto;
+    padding: 2em;
+
+    .saleText__title{
+      font-size: 3em;
+      color: #1F2431;
+      margin-block: 0.5em;
+    }
+    .saleText__subTitle{
+      color: #82899B;
+      margin-right: 10em;
+      font-size: 1.1em;
+      line-height: 1.7em;
+    }
+    .saleText__callToAction{
+      display: inline-block;
+      text-transform: uppercase;
+      padding: 0.75em 5em;
+      margin: 1em 0;
+      text-decoration: none;
+      color: #fff;
+      background-color: #315EFB;
+      border-radius: 80px;
+      font-size: 0.9em;
+      
+      
+    }
+  }
+}

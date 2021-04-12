@@ -1,0 +1,55 @@
+footer{
+  margin-inline: 2.5em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+
+
+  .About h4,.Contact h4,.Newsletter h4{
+    color: #1F2431;
+    font-size: 1.1em;
+  }
+
+  .About ul{
+
+    padding: 0;
+    color: #82899B;
+    list-style: none;
+  }
+
+  .Contact{
+    &__email{
+      color: #82899B;
+    }
+  }
+
+  .Newsletter{
+    &__text{
+      color: #82899B;
+    }
+    &__email{
+      padding: 0.7em;
+      border-radius: 8px 0 0 8px;
+      border: 1px solid #82899B;
+      width: 33%;
+    }
+    &__button{
+      background-color: #315EFB;
+      padding: 0.7em;
+      border-radius: 0 8px 8px 0;
+      border: 1px solid #315EFB;
+      color: white;
+    }
+    &__address{
+      padding-top: 4em;
+      padding-bottom: 4em;
+      color: #82899B;
+      font-style: normal;
+      &Storng{
+        font-weight: 700;
+        color: #1F2431;
+        font-size: 0.8em;
+      }
+    }
+  }
+
+}

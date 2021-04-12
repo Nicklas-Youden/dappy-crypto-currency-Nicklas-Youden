@@ -1,0 +1,30 @@
+.card{
+  background-color: #FAFCFF;
+  border-radius: 5px;
+  padding: 2em;
+
+  &:first-of-type{
+    .card__text{
+      margin-right: unset;
+    }
+  }
+
+  &__title{
+    color: #1F2431
+  }
+
+  &__image{
+    display: flex;
+    margin: 0 auto;
+    padding: 4em 0;
+  }
+  &__text{
+    color: #82899B;
+    font-size: 1.1em;
+    margin-right: 4em;
+    line-height: 1.7em;
+    
+  }
+}
+
+

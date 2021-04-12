@@ -1,0 +1,206 @@
+{"Cards":
+  [
+    [
+      {
+        "type":"text",
+        "text":"Dappy is light wallet powered by Blockstack. It uses Gaia decentralized storage and encryption option. Dappy doesn't store or proceed user private key, the all data are securely stored in the Gaia. Dappy was created by the BC Net that trust in crypto and decentralized applications."
+      }
+    ],[
+      {
+        "type":"heading",
+        "text":"Multi-currencies"
+      },{ 
+        "type":"image",
+        "src":"./images/multi-currencies.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Receive, send and store the most popular coins, like Bitcoin, Ethereum, Litecoin, Dash and lots more."
+      }
+    ],[
+      {
+        "type":"heading",
+        "text":"Free and open source"
+      },{ 
+        "type":"image",
+        "src":"./images/opensource.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Fully open and transparent wallet. Our code is open source and trusted by Blockstack Team."
+      }
+    ],[
+      {
+        "type":"heading",
+        "text":"Tokens"
+      },{ 
+        "type":"image",
+        "src":"./images/tokens.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Full support for any tokens on Ethereum network. Bitcoin tokens (Omnilayer) is coming soon."
+      }
+    ],[
+      {
+        "type":"heading",
+        "text":"Exchange"
+      },{
+        "type":"text",
+        "text":"In-app exchange is supported by ShapeShift, it allows to convert coins to each other in the most intuitive and easiest way."
+      },{ 
+        "type":"image",
+        "src":"./images/exchange.png",
+        "alt":""
+      }
+    ]
+  ],
+"roadmap":
+  [
+    [
+      {
+        "type":"image",
+        "src":"./images/Step.png",
+        "alt":""
+      },{
+        "type":"heading",
+        "text":"May2018"
+      },{ 
+        "type":"text",
+        "text":"Blockstack Autorisation."
+      }
+    ],[
+      {
+        "type":"image",
+        "src":"./images/Step.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Decentralized storage Gaia."
+      }
+    ],[
+      {
+        "type":"image",
+        "src":"./images/StepEnd.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"BTC, ETH, ETC, LTC, BCH, BTG, DOGE, DCR, DACH"
+      }
+    ],[
+      {
+        "type":"image",
+        "src":"./images/Step.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Support ERC20 tokens"
+      }
+    ],[
+      {
+        "type":"image",
+        "src":"./images/Step.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Support Custom token"
+      }
+    ],[
+      {
+        "type":"image",
+        "src":"./images/StepEnd.png",
+        "alt":""
+      },{
+        "type":"heading",
+        "text":"June 2018"
+      },{
+        "type":"text",
+        "text":"Exchange powered by ShapeShift"
+      }
+    ],[
+      {
+        "type":"image",
+        "src":"./images/Goal.png",
+        "alt":""
+      },{
+        "type":"heading",
+        "text":"2018-2019"
+      },{
+        "type":"text",
+        "text":"Add more coins: ZEC, DCR, XRP..."
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/Gray.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Blockstack contact list"
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/GrayEnd.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Support token dor each coins"
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/Gray.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Support private key in different formats"
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/Gray.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Multilanguage support"
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/GrayEnd.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Different UI themes"
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/Gray.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"Ledger, Trezor integrations"
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/Gray.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"In-app marketplace or DApp browser"
+      }
+		],[
+      {
+        "type":"image",
+        "src":"./images/More.png",
+        "alt":""
+      },{
+        "type":"text",
+        "text":"and lots more"
+      }
+		]
+  ]
+}
