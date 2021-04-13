@@ -8,7 +8,9 @@ export default function Hero(){
         Create your first decentrlized wallet
       </h1>
       <p className="saleText__subTitle">The easiest way to mange multiple cryptocurrenct assets</p>
-      <a className="saleText__callToAction" href="!">create wallet</a>
+      <a className="saleText__callToAction" href="!"
+      onClick={() => gtag("event", "select_content", { "content_type": createWalletButton, "test-type": "B" })}
+      >create wallet</a>
       </div>
       <img className="hero__walletImage"src="./images/wallet.png" alt=""/>
     </>
