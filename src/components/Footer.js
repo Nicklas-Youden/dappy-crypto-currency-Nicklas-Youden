@@ -9,9 +9,9 @@ export default function Footer(){
           About
         </h4>
         <ul>
-          <li><a href="!"></a>Introducing</li>
-          <li><a href="!"></a>Terms of service</li>
-          <li><a href="!"></a>Privacy Policy</li>
+          <li><a href="#"></a>Introducing</li>
+          <li><a href="#"></a>Terms of service</li>
+          <li><a href="#"></a>Privacy Policy</li>
         </ul>
       </div>
 
