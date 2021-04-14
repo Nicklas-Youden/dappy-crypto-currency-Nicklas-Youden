@@ -10,7 +10,7 @@ export default function Hero(){
       <p className="saleText__subTitle">The easiest way to mange multiple cryptocurrenct assets</p>
       <a className="saleText__callToAction" href="/"
       // eslint-disable-next-line
-      onClick={() => gtag("event", "select_content", { "content_type": createWalletButton, "test-type": "A" })}
+      onClick={() => gtag("event", "select_content", { "content_type": "createWalletButton", "test-type": "A" })}
       >create wallet</a>
       </div>
       <img className="hero__walletImage"src="./images/wallet.png" alt=""/>
